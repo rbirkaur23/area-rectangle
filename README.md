@@ -1,2 +1,2 @@
 # area-rectangle
-Program to calculate area of rectangle
+C++ Program to calculate area of rectangle

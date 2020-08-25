@@ -1,2 +1,2 @@
 # area-rectangle
-Calculates area of rectangle
+Program to calculate area of rectangle
